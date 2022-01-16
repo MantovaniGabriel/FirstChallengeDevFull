@@ -2,3 +2,4 @@
 O primeiro exercício feito com HTML e CSS.
 
 É uma página de site feito para uma academia ficticia, o primeiro projeto que realizo.
+As immagens contidas aqui possuem direitos autorais e foram retiradas de: https://br.freepik.com/
